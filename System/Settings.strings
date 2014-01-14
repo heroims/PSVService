@@ -8,6 +8,14 @@
 	<array>
 		<string></string>
 	</array>
+	<key>video</key>
+	<array>
+		<string></string>
+	</array>
+	<key>music</key>
+	<array>
+		<string></string>
+	</array>
 	<key>force_upgrade_versions</key>
 	<array>
 		<string>1.0.0</string>
