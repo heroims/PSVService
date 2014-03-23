@@ -1,7 +1,7 @@
 {
-    "uid": "uid001",
-    "name": "Default",
-    "screen_name" : "默认",
+    "uid": "uid006”,
+    "name": “Rotate”,
+    "screen_name" : "旋转世界",
     "filter" : "none",
     "default_music" : ["Hoy", "I Don't Want Sad Anymore", "Sky of Bad Boy"],
     
@@ -41,9 +41,9 @@
                                                   {
                                                   "name" : "style1",
                                                   "animations" : [
-                                                                  { "start":"0.0", "end":"0.05", "style":"fade_in", "scale"  : "1.0", "direction" : "none" },
+                                                                  { "start":"0.0", "end":"0.05", "style":"rotate_in", "scale"  : "1.0", "direction" : "none" },
                                                                   { "start":"0.05", "end":"0.95", "style":"zoom_in", "scale"  : "1.25", "direction" : "none" },
-                                                                  { "start":"0.95", "end":"1.0", "style":"fade_out", "scale"  : "1.25", "direction" : "none" }
+                                                                  { "start":"0.95", "end":"1.0", "style":"rotate_out", "scale"  : "1.25", "direction" : "none" }
                                                                   ]
                                                   }
                                                   ]
@@ -113,9 +113,9 @@
                                                   {
                                                   "name" : "style1",
                                                   "animations" : [
-                                                                  { "start":"0", "end":"0.09", "style":"fade_in", "scale"  : "1.0", "direction" : "none" },
+                                                                  { "start":"0", "end":"0.09", "style":"rotate_in", "scale"  : "1.0", "direction" : "none" },
                                                                   { "start":"0.09", "end":"0.95", "style":"zoom_in", "scale"  : "1.25", "direction" : "none" },
-                                                                  { "start":"0.95", "end":"1.0", "style":"fade_out", "scale"  : "1.25", "direction" : "none" }
+                                                                  { "start":"0.95", "end":"1.0", "style":"rotate_out", "scale"  : "1.25", "direction" : "none" }
                                                                   ]
                                                   }
                                                   ]
@@ -213,9 +213,9 @@
                                                   {
                                                   "name" : "style1",
                                                   "animations" : [
-                                                                  { "start":"0", "end":"0.065", "style":"fade_in", "scale"  : "1.0", "direction" : "none" },
+                                                                  { "start":"0", "end":"0.065", "style":"rotate_in", "scale"  : "1.0", "direction" : "none" },
                                                                   { "start":"0.065", "end":"0.975", "style":"zoom_in", "scale"  : "1.25", "direction" : "none" },
-                                                                  { "start":"0.975", "end":"1.0", "style":"fade_out", "scale"  : "1.25", "direction" : "none" }
+                                                                  { "start":"0.975", "end":"1.0", "style":"rotate_out", "scale"  : "1.25", "direction" : "none" }
                                                                   ] 
                                                   } 
                                                   ]
